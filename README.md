@@ -40,3 +40,9 @@ The workflow includes **data preprocessing, exploratory data analysis (EDA), and
 - Confusion matrices and precision-recall curves demonstrate model effectiveness.
 
 ---
+
+📌 Demo & Blog
+
+📖 [Project Blog](https://classificationofriceseedvarieties.hashnode.dev/classification-of-rice-seed-varieties)
+
+🎥 [Demo Video](https://drive.google.com/file/d/1f-QoDDJJBDLs19WVOs8pz86d0VNlynVZ/view)
